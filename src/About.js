@@ -1,7 +1,7 @@
 import React from 'react'
-import Tenzies from './Images/Tenzies'
-import Quiziccal from './Images/Quiziccal'
-import Cart from './Images/Cart'
+import Tenzies from './Images/Tenzies.svg'
+import Quiziccal from './Images/Quiziccal.svg'
+import Cart from './Images/Cart.svg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
 
