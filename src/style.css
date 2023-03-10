@@ -105,7 +105,7 @@ nav > a{
 
 
 .about--page{
-  height: 120vh;
+  height: 150vh;
   background-color: rgb(221, 203, 203);
   padding: 5em;
   display: grid;
@@ -155,7 +155,7 @@ nav > a{
   font-size: 1.6em;
   color: rgb(3, 11, 22);
   font-weight: bold;
-  height: 1em;
+  height: 2em;
 }
 
 .ResumeLink{
