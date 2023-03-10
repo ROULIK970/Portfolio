@@ -136,9 +136,10 @@ nav > a{
 
 .about--tech{
   margin-right: 3em;
-  padding: 0;
+  padding: 2em;
   margin-top: 5em;
   gap: 3px;
+  
 }
 
 .about--tech>span{
@@ -158,6 +159,7 @@ nav > a{
 
 .ResumeLink{
   text-decoration: none;
+ 
 }
 
 .resume--icon{
