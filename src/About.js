@@ -25,8 +25,8 @@ const url = 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-
             <span>CSS</span>
             <span>Vanilla Javascript</span>
             <span>ReactJs</span>
-            <p className='resume'>Click on resume ...</p>
-            <a className='ResumeLink' href={ResumeUrl}><FontAwesomeIcon className='resume--icon' id='resume' icon={faEnvelope} /></a>
+            <p className='resume'>Click on resume ... <a className='ResumeLink' href={ResumeUrl}><FontAwesomeIcon className='resume--icon' id='resume' icon={faEnvelope} /></a></p>
+            
           </div>
         </div>
         <div className='project--sec'>
