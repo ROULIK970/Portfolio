@@ -402,10 +402,6 @@ nav .fas {
     cursor: pointer;
   }
 
-  nav .fa-bars{
-    margin-left: 16em;
-  }
-
   .header-intro{
     display: flex;
     flex-direction: column;
