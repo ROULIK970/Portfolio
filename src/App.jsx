@@ -4,7 +4,7 @@ import image from "./assets/Screenshot_3.png";
 import Quiz_img from "./assets/Quiziccal.png";
 import Tenzies_img from "./assets/Tenzies.png";
 import Type_img from "./assets/Type-game.png";
-import resume from "./assets/Web D Resume.pdf";
+import resume from "./assets/Web D Resume (5).pdf";
 
 function App() {
   const [selectedElement, setSelectedElement] = useState("element_1");
